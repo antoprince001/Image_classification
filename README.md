@@ -11,3 +11,6 @@ In this dataset, you will find 7534 images of 2 sizes of lunar rocks. In the nex
 Approach:
 The problem has been dealt with utilizing the google colabs platform. 
 
+Dataset:
+https://drive.google.com/open?id=1ETMLnMFpLKCv4KT75CVZGKapYIVYCuUB
+
