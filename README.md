@@ -9,7 +9,14 @@ Imagine you have been called by one of the largest space stations in the world (
 In this dataset, you will find 7534 images of 2 sizes of lunar rocks. In the next 2 months, we challenge you to build models such that given an image, the model will predict the probability of every rock class.
 
 Approach:
-The problem has been dealt with utilizing the google colabs platform. 
+The problem has been solved using the Google Colabs platform. CNN has been used to extract features from the lunar rock sample images.
+ * The data set in drive has been accessed in colabs using pydrive module.
+ * Neural network
+  -Activation layer -Relu of 128 density
+  -2 softmax layers
+  -loss function: categorical_crossentropy
+  -optimizer: Adam
+  
 
 Dataset:
 https://drive.google.com/open?id=1ETMLnMFpLKCv4KT75CVZGKapYIVYCuUB
